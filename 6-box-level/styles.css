@@ -1,0 +1,51 @@
+.header {
+    display: flex;
+    border: 3px solid black;
+    min-height: 100px;
+    padding: 20px;
+    justify-content: center;
+}
+.banner {
+    border: 3px solid black;
+    height: 375px;
+    margin-bottom: 25px;
+}
+.logo {
+    border: 3px solid black;
+    height: 80px;
+    width: 80px;
+    margin: 20px;
+}
+.hamburger {
+    border: 3px solid black;
+    height: 80px;
+    width: 80px;
+    margin: 20px;
+}
+.header-button {
+    border: 3px solid black;
+    width: 100px;
+    height: 50px;
+    margin: 20px;
+    margin-left: 10px;
+}
+.option-container {
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}
+.option {
+    border: 3px solid black;
+    min-height: 50px;
+    min-width: 50px;
+    height: 250px;
+    width: 250px;
+    margin-inline: 50px;
+    border-radius: 15px;
+}
+.footer {
+    border: 3px solid black;
+    height: 200px;
+    margin-top: 75px;
+    justify-content: center;
+}
